@@ -3,3 +3,4 @@ I love `dwm`. However, I want to minimize the number of shortcuts for it so that
 - moving windows to a new workspace, 
 - resizing windows within a workspace (the current approach for `float` mode in `dwm` is awesome), 
 - show all windows that are currently open together with their corresponding workspace.
+You can choose windows by typing a `fuzzy` search to select a window you want to work on, then you can perform action on that window.
